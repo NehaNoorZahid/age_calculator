@@ -1,4 +1,4 @@
-#Age Calculator
+Age Calculator
 
 A simple Age Calculator web application that calculates a person’s age based on the date of birth input using HTML, CSS, and JavaScript.
 GitHub
